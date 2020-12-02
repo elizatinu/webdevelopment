@@ -1,0 +1,29 @@
+H1{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    margin-top: 2.5%;
+}
+TABLE{
+    border-spacing: 10PX;
+    margin: auto;
+    margin-top: 50px;
+}
+TD{
+    height: 400PX;
+    padding: 75px;
+}
+#O{
+    background-color: pink;
+}
+#T{
+    background-color: orange;
+}
+#TH{
+    background-color: red;
+}
+#F{
+    background-color: yellow;
+}
+#FI{
+    background-color: green;
+}

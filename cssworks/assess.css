@@ -1,0 +1,11 @@
+.q{
+    color: blue;
+}
+#w{
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+}
+li{
+    color: rgb(214, 94, 114);
+}

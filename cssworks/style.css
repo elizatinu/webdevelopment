@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Rye', cursive;
+}
+h2{
+    color: green;
+    text-align: center;
+    font-family: 'yesteryear',cursive;
+}
+body{
+    background-color: rgb(106,184,157);
+    background-image: url("ipl.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    background-color: rgb(168, 106, 184);
+    border-style: solid;
+    border-color: yellow;
+    margin-left: 825px;
+    border-width: 5px;
+    width: 250px;
+    padding-left: 12%;
+} 
+#q{
+    background-color: rgb(37, 9, 44);
+    border-style: dashed;
+    border-color: rgb(173, 169, 108);
+    
+    border-width: 5px;
+    width: 250px;
+    
+}
+.w{
+    background-color: rgb(22, 15, 126);
+    border-style: solid;
+    border-color: rgb(43, 211, 28);
+    
+    border-width: 5px;
+    width: 250px;
+}

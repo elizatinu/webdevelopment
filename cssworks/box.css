@@ -1,0 +1,26 @@
+#z{
+    background-color: rgb(168, 106, 184);
+    border-style: solid;
+    border-color: yellow;
+    margin-left: 250px;
+    border-width: 5px;
+    width: 50%;
+    padding-left: 300px;
+    margin-top: 5%;
+    font-family: 'Nerko One', cursive;
+} 
+#x{
+    background-color: rgb(122, 207, 119);
+    border-style: solid;
+    border-color: orange;
+    margin-left: 250px;
+    border-width: 5px;
+    width: 50%;
+    padding-left: 300px;
+    margin-top: 460px;
+    font-family: 'Roboto', sans-serif;
+} 
+h1{
+    font-family: 'Press Start 2P', cursive; 
+    text-align: center;
+}

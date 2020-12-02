@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(186, 204, 188);
+    height: 100%;
+}
+h6{
+    color: rgb(83, 70, 70);
+    text-align: center;
+}
+#w{
+    margin-left: 125px;
+}
+#t{
+    width: 100px;
+    margin-top: 25%;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+}
